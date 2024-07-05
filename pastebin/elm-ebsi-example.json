@@ -1,6 +1,7 @@
 {
   "@context": [
-    "https://www.w3.org/2018/credentials/v1"
+    "https://www.w3.org/2018/credentials/v1",
+    "https://cdn.jsdelivr.net/gh/alenhorvat/public@main/pastebin/edc-ap-context.jsonld"
   ],
   "id": "urn:credential:dffc6c22-1421-4df2-b0e4-2b9d17aa0a6b",
   "type": [
