@@ -1,0 +1,10 @@
+{
+  "@context": {
+    "@protected": true,
+    "ext": "https://mynext.id/ns/ob-ext#",
+    "onBehalf": {
+      "@id": "ext:onBehalf",
+      "@container": "@set"
+    }
+  }
+}
